@@ -1,0 +1,2 @@
+# strike
+JS game
